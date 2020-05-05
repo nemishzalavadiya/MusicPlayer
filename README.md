@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 TO Run this project on Android studio,
 1. Configure Flutter Sdk first
 2. get dependencies
+3. Open Terminal - flutter pub get ( For flutter dependencies)
